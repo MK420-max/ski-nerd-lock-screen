@@ -1,0 +1,10 @@
+# Interface guide
+
+- Tool: built-in Imagegen.
+- Asset: `images/interface-guide.png`.
+- Reference: `images/preview-en.png`, a native preview using generic account placeholders.
+- Purpose: an illustrated README legend. It is labelled separately from native screenshots.
+
+## Final prompt
+
+Use case: infographic-diagram. Create a polished, wide 16:9 GitHub README interface guide for the existing macOS app 'Ski Nerd Lock Screen 1.0'. The input image is a REFERENCE for the actual two horizontal connected glass rows layout: each row has a large camera on the left, a narrow central resort logo/forecast/small snow-stake camera, and a large camera on the right. Keep four main mountain cameras, two small central snow stake panels. Clock/date at top and generic macOS account/password reservation at bottom. Use an elegant Apple-like editorial technical illustration on an off-white background, slate typography and restrained icy-blue callout lines. Recreate the reference interface as a central simplified illustrated screen, with alpine imagery and dark glass, preserving the layout rather than inventing new cards. Add four small numbered callouts with clear precise English labels, around rather than over the screen: '1 Weather & forecast', '2 Four live cameras', '3 Snow-stake snapshots', '4 Chinese / English settings'. Small supporting exact subtitle Chinese '界面功能图解'. Main title exact 'Ski Nerd Lock Screen 1.0'. Tiny footer exact 'Illustrated guide • Preview data'. For the settings callout show a small native preferences window with '中文 / English' and a camera URL field, not another video tile. Preserve explicit 'Offline · Retrying' in the second snow-stake panel. Remove screen-sharing/capture badges, cursor, any personal account names, usernames, host paths, GitHub account information. Only a neutral user icon in the reserved authentication area. No real password field data. Do not claim the illustration is a real screenshot. Clear readable hierarchy, generous margins, professional open-source project documentation style.
